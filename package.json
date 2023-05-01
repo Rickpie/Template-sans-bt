@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "projet thp",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
+    "build": "webpack --config webpack.config.js -watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rickpie",
@@ -20,5 +20,8 @@
     "sass-loader": "^13.2.2",
     "webpack": "^5.81.0",
     "webpack-cli": "^5.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
   }
 }
