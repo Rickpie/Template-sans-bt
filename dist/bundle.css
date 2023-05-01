@@ -1,0 +1,16 @@
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/style/index.scss ***!
+  \*************************************************************************************************************************************************************************************/
+p {
+  color: rgb(255, 20, 20);
+  font-family: "Big Noodles";
+}
+
+body {
+  background-image: url(05b4c3965ec13703e51b.jpg);
+}
+
+@font-face {
+  font-family: "Big Noodles";
+  src: url(e2ebffa44fbb63381589.ttf);
+}
